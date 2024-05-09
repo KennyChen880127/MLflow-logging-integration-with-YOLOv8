@@ -11,11 +11,11 @@ This repo integrates the MLOps Tool MLflow into the YOLOv8 training process, all
 # MLflow
 [MLflow](https://mlflow.org/)  is an end-to-end platform for model management that can achieve the following:
 
-    1. Track experiment data and parameters to compare which set of training parameters yields better results.
-    2. Package the code for training models in a presentable format, facilitating environment sharing with other data scientists.
-    3. Manage file records of various types of models for subsequent model deployment operations.
-    4. Register models and perform model deployment operations using CLI commands.
-  
+1. Track experiment data and parameters to compare which set of training parameters yields better results.
+2. Package the code for training models in a presentable format, facilitating environment sharing with other data scientists.
+3. Manage file records of various types of models for subsequent model deployment operations.
+4. Register models and perform model deployment operations using CLI commands.
+
 ## Steps to run Code
 
 * Create and activate a virtual environment using Anaconda:
