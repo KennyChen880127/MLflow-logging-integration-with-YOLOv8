@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Project/MLflow-logging-integration-with-YOLOv8/mlruns/134843268762698203/b8a27f98841547ae8fca74c7c3a5740f/artifacts
+deleted_time: 1715195744497
+end_time: 1715195635898
+entry_point_name: ''
+experiment_id: '134843268762698203'
+lifecycle_stage: deleted
+run_id: b8a27f98841547ae8fca74c7c3a5740f
+run_name: train1
+run_uuid: b8a27f98841547ae8fca74c7c3a5740f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715195635354
+status: 4
+tags: []
+user_id: kenny
