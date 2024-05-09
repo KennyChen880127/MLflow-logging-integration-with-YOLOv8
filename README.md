@@ -45,15 +45,14 @@ run_name = "The run_name is the name of the execution task."
 
 * When starting training, you can open the Anaconda Prompt terminal, activate the yolov8 environment, and navigate to the project directory:
 
-```Shell
-conda activate yolov8
-cd MLflow-logging-integration-with-YOLOv8
-```
+        conda activate yolov8
+        cd MLflow-logging-integration-with-YOLOv8
+
 
 * Start MLflow and you can see the configuration of your parameters in the Overview section and check the current training status in the Model metrics section:
-```Shell
-mlflow ui
-```
+
+        mlflow ui
+
 
 * After training is completed, you can obtain all the trained parameters using get_mlflow_para.py:
 
